@@ -1,0 +1,25 @@
+{
+  "name": "pythonicjs-web",
+  "version": "1.0.0",
+  "description": "A javascript library to be used in the browser or elsewhere that is pythonic. It provides functionality of a lot of the python functions. This is written so that people who love python and are not a big fan of javascript might actually enjoy learning and writing javascript. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qrishna/pythonicjs-web.git"
+  },
+  "keywords": [
+    "pythonicjs",
+    "pythonicjs-web",
+    "python",
+    "pythonicjavascript"
+  ],
+  "author": "Krishna Bhattarai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Qrishna/pythonicjs-web/issues"
+  },
+  "homepage": "https://github.com/Qrishna/pythonicjs-web#readme"
+}
