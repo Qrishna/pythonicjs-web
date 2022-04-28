@@ -10,9 +10,9 @@
 ```
 <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
 ```
-2. Then immediately after import this:
+2. Then immediately after import this module:
 ```
-<script src="pythonicjs-web.js"> </script>
+<script src="https://unpkg.com/pythonicjs-web"></script>
 ```
 
 # ENJOY!!
