@@ -1,10 +1,13 @@
 {
   "name": "pythonicjs-web",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A javascript library to be used in the browser or elsewhere that is pythonic. It provides functionality of a lot of the python functions. This is written so that people who love python and are not a big fan of javascript might actually enjoy learning and writing javascript. ",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
+  },
+  "dependencies": {
+    "underscore": "^1.9.1"
   },
   "repository": {
     "type": "git",
