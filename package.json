@@ -1,13 +1,14 @@
 {
   "name": "pythonicjs-web",
-  "version": "3.0.0",
-  "description": "A javascript library to be used in the browser or elsewhere that is pythonic. It provides functionality of a lot of the python functions. This is written so that people who love python and are not a big fan of javascript might actually enjoy learning and writing javascript. ",
-  "main": "index.js",
+  "version": "4.0.0",
+  "description": "A javascript library to be used in the browser. It provides functionality of a lot of the python like functions. This is written so that people who love python and are not a big fan of javascript might actually enjoy learning and writing javascript. ",
+  "main": "pythonicjs_web.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "npx mocha pythonicjsTest.js"
   },
   "dependencies": {
-    "underscore": "^1.9.1"
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
   },
   "repository": {
     "type": "git",
